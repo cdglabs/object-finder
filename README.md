@@ -22,4 +22,4 @@ Given a spec and a list of available objects, the "broker" will try to find (som
 
 Supporting this kind of discovery is part of a larger goal to enable programmers to build new applications using existing applications or services as building blocks. There are many other interesting aspects of this problem that are worth thinking about, e.g., can we make bindings loosely so that when an object / service goes down, the same functionality can be provided by another object or a combination of objects? And if so, how do we deal with state?
 
-(Our [Onward! 2014 paper](http://www.hesam.us/callbymeaning/) explores a very different approach to discovery.)
+(Our [Onward! 2014 paper](https://www.hesam.us/cs/callbymeaning/) explores a very different approach to discovery.)
